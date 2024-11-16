@@ -5,5 +5,5 @@ public class Main {
         System.out.println("AM 8210163");
         System.out.println("AM 8230106");
         System.out.println("AM 8230125");
-    }
+        }
 }
