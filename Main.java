@@ -6,6 +6,7 @@ public class Main {
         System.out.println("AM 8230106");
         System.out.println("AM 8190271");
         System.out.println("AM 8230125");
+        System.out.println("AM 7220234");
         }
 }
 
